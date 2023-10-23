@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-[Contributing to the Project](#contributing-to-the-project)
-[Description](#description)
-[Phase 1](#phase-1)
+- [Contributing to the Project](#contributing-to-the-project)
+- [Description](#description)
+- [Phase 1](#phase-1)
 
 ## Contributing to the Project
 
