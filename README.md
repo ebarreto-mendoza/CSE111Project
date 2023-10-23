@@ -1,27 +1,21 @@
-# Hello World example
+# Spotify Music Quiz App
 
-This example shows the most basic idea behind Next. We have 2 pages: `pages/index.tsx` and `pages/about.tsx`. The former responds to `/` requests and the latter to `/about`. Using `next/link` you can add hyperlinks between them with universal routing capabilities. The `day` directory shows that you can have subdirectories.
+## Table of Contents
 
-## Deploy your own
+- [Contributing to the Project](###Contributing to the Project)
+- [Description](###Description)
+- [Phase 1](###Phase 1)
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/hello-world)
+###Contributing to the Project
+This project has a base structure of a Next.js application. In order to download and use the application you must:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/hello-world&project-name=hello-world&repository-name=hello-world)
+1.  Have Node.js installed on your device. [Go here](https://nodejs.org/en) for installation.
+2.  Use 'git clone' to make a copy of this repo.
+3.  Open a terminal in the root directory folder of the project.
+4.  In the terminal, run 'npm install' to download all dependecies of the project. This may take a while.
+5.  You should now be ready to develop this project on your device.
+6.  Go ahead and run 'npm run dev' to run the project on your local machine. This should open a browser page routing to 'http://localhost:3000'.
 
-## How to use
+###Description
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
-```bash
-npx create-next-app --example hello-world hello-world-app
-```
-
-```bash
-yarn create next-app --example hello-world hello-world-app
-```
-
-```bash
-pnpm create next-app --example hello-world hello-world-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+###Phase 1
